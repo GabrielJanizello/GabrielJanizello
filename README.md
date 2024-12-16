@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, Eu sou o Gabriel 👋
 
-<!--
-**GabrielJanizello/GabrielJanizello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Estudante de Engenharia de Software | 24 anos**  
+🎓 Estou cursando Engenharia de Software, buscando me aprofundar em diversas áreas da tecnologia, como desenvolvimento de software, análise de sistemas e arquitetura de software. Tenho paixão por resolver problemas e criar soluções eficientes e inovadoras.
 
-Here are some ideas to get you started:
+💻 **Tecnologias que estou aprendendo**:  
+- Linguagens: JavaScript e Python
+- Frameworks: Node.js, Electron
+- Banco de dados: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Objetivo**:  
+Meu objetivo é me tornar um profissional completo na área de desenvolvimento de software, criando soluções práticas e escaláveis, e sempre buscando aprimorar minhas habilidades em novas tecnologias. Busco integrar teoria e prática para enfrentar desafios reais do mercado de tecnologia.
+
+🌱 **O que estou aprendendo**:  
+Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript** e **Node.js** para o desenvolvimento de aplicações back-end, e também evoluir o desenvolvimento front-end, criando interfaces interativas e dinâmicas. Além disso, estou aprofundando meus conhecimentos em **Python** e **Banco de dados**
+
+📫 **Como me encontrar**:  
+- E-mail: gabriel.janizello@gmail.com
+- LinkedIn: [linkedin.com/in/gabriel](https://www.linkedin.com/in/gabriel-janizello/)
+
