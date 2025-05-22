@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou Gabriel Janizello</h1>
+<h1 align="center">👋 Olá! Eu sou Gabriel Janizello </h1>
 
 <p align="center">
 🎓 Estudante de Engenharia de Software | 💻 Focado em Python | 🤖 Apaixonado por IA e Automação  
