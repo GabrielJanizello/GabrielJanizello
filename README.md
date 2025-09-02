@@ -55,7 +55,7 @@ Sou um estudante de **Engenharia de Software** em constante aprendizado, buscand
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-janizello)
 - ✉️ Email: gabriel.janizello@gmail.com
-- 🌍 Portfólio: (https://gabrieljanizello.github.io/Gabriel-Janizello-DEV/)
+- 🌍 Portfólio: (https://gabriel-janizello-desenvolvedor.vercel.app/)
 
 ---
 
