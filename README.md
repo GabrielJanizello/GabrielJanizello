@@ -50,7 +50,6 @@ Sou um estudante de **Engenharia de Software** em constante aprendizado, buscand
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielJanizello&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJanizello&layout=compact&theme=radical"/>
 </p>
 
