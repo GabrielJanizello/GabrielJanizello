@@ -10,11 +10,11 @@
 
 Sou um estudante de **Engenharia de Software** em constante aprendizado, buscando sempre desenvolver soluções criativas e eficientes. Tenho experiência com:
 
-- 🐍 **Python**
-- ☕ **Java**
+- 🐍 **Python & FastAPI**
+- ☕ **Java & Spring Boot**
 - 🌐 **JavaScript**
-- 🗃️ **Banco de Dados MySQL / SQL**
-- 🤖 Criação de agentes inteligentes IA com a **API Google Gemini**
+- 🗃️ **Banco de Dados MySQL / SQL / PostgreSQL**
+- 🤖 **Criação de agentes inteligentes IA**
 - 🔁 Projetos de **automação**
 
 🎯 Atualmente focado em aprofundar meus conhecimentos em desenvolvimento backend e soluções de IA. Tenho dedicado meus estudos principalmente às linguagens Python e Java, explorando suas bibliotecas, frameworks e melhores práticas para criação de aplicações robustas, escaláveis e inteligentes. Busco constantemente aprimorar minha capacidade de construir sistemas eficientes, bem estruturados e preparados para desafios reais do mercado.
