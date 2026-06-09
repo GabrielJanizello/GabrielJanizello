@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Gabriel Janizello </h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software | 💻 Aprofundando em Desenvolvimento Backend e IA | Python e Java |
+🎓 Estudante de Engenharia de Software | 💻 Desenvolvimento Fullstack e IA | Python, Java, JavaScript |
 </p>
 
 ---
@@ -12,12 +12,12 @@ Sou um estudante de **Engenharia de Software** em constante aprendizado, buscand
 
 - 🐍 **Python & FastAPI**
 - ☕ **Java & Spring Boot**
-- 🌐 **JavaScript**
+- 🌐 **JavaScript/TypeScript & React**
 - 🗃️ **Banco de Dados MySQL / SQL / PostgreSQL**
 - 🤖 **Criação de agentes inteligentes IA**
 - 🔁 Projetos de **automação**
 
-🎯 Atualmente focado em aprofundar meus conhecimentos em desenvolvimento backend e soluções de IA. Tenho dedicado meus estudos principalmente às linguagens Python e Java, explorando suas bibliotecas, frameworks e melhores práticas para criação de aplicações robustas, escaláveis e inteligentes. Busco constantemente aprimorar minha capacidade de construir sistemas eficientes, bem estruturados e preparados para desafios reais do mercado.
+🎯 Atualmente focado em aprofundar meus conhecimentos em desenvolvimento backend/fullstack e soluções de IA. Tenho dedicado meus estudos principalmente às linguagens Python, TypeScript e Java, explorando suas bibliotecas, frameworks e melhores práticas para criação de aplicações robustas, escaláveis e inteligentes. Busco constantemente aprimorar minha capacidade de construir sistemas eficientes, bem estruturados e preparados para desafios reais do mercado.
 
 ---
 
@@ -27,6 +27,7 @@ Sou um estudante de **Engenharia de Software** em constante aprendizado, buscand
 <p align="left">
   <img height="28" src="https://img.shields.io/badge/Python-1c1c1c?style=flat&logo=python&logoColor=3776AB"/>
   <img height="28" src="https://img.shields.io/badge/Java-1c1c1c?style=flat&logo=openjdk&logoColor=f89820"/>
+  <img height="28" src="https://img.shields.io/badge/TypeScript-1c1c1c?style=flat&logo=typescript&logoColor=3178C6"/>
 </p>
 
 ### **Linguagens Complementares**
@@ -59,7 +60,7 @@ Sou um estudante de **Engenharia de Software** em constante aprendizado, buscand
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-janizello)
 - ✉️ Email: gabriel.janizello@gmail.com
-- 🌍 Portfólio: (https://gabriel-janizello-desenvolvedor.vercel.app/)
+- 🌍 Portfólio:(https://gabriel-janizello-desenvolvedor.vercel.app/)
 
 ---
 
